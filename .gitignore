@@ -2,7 +2,7 @@
 *.csv
 
 #Walter's special file
-just_walter.txt
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
